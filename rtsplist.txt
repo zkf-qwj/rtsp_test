@@ -1,0 +1,11 @@
+rtsp://172.16.188.88:800/camera/test.ts?url=hikplat://192.168.121.55:8000:37&user=jsyx&pwd=12345&module=17
+
+
+
+rtsp://172.16.188.84:8005/camera/770cdb043e38b8a45eac61b2078a1497.ts
+rtsp://172.16.188.84:8005/camera/92b2fc997c157f16a0b2c2fc54ac1b00.ts?isIpqam=0
+rtsp://172.16.188.82:555/camera/e4ea2ac91b714dd5136020a0307779b9.ts
+rtsp://172.16.188.84:8005/camera/8f907393f2ddd6227ed59d7524435578.ts?isIpqam=0
+rtsp://172.16.188.82:555/camera/01ba7fb11245bd928bd0a92eb4504451.ts?isIpqam=0
+rtsp://172.16.188.88:554/camera/test.ts?url=hikplat://10.117.255.10:8000:52&user=admin&pwd=admin12345&module=1
+rtsp://172.16.188.82:555/camera/e4ea2ac91b714dd5136020a0307779b9.ts?isIpqam=0
